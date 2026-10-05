@@ -1,0 +1,20 @@
+﻿# Logs et fichiers temporaires
+*.log
+*.tmp
+*.bak
+*.backup
+*.old
+*.before-*
+*.corrige
+*~
+
+# Fichiers système
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Fichiers temporaires PHP
+php_errors.log
+
+# Sessions / données locales
+sessions/
